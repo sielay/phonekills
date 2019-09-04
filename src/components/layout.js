@@ -36,7 +36,9 @@ const Layout = ({ children }) => {
       >
         <main>{children}</main>
         <footer>
-          © {new Date().getFullYear()}, Built with
+          © {new Date().getFullYear()}, Phone Kills
+          <a href="https://twitter.com/phonekills" target="_blank"></a>,
+           Built with
           {` `}
           <a href="https://www.gatsbyjs.org">Gatsby</a>
         </footer>
