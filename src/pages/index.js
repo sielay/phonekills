@@ -19,91 +19,45 @@ const IndexPage = () => (
       </a>
       ).
     </p>
-    <h3>We suggest</h3>
+    <h3>In essence</h3>
     <ul>
       <li>
-        Increase penalty for using mobile devices while driving
-        <ul>
-          <li>
-            At the moment driver can get £200 fine and 6 penalty points. New
-            drivers can lose their licence. Many end up by taking retraining
-            course.
-          </li>
-          <li>
-            Drivers using mobile devices while driving should lose driving
-            licence same as drink drivers, always.
-          </li>
-          <li>
-            Drivers/cyclists/bikers not having driving licence or foreign
-            drivers who cannot get their licence taken should be fined with much
-            higher rates to prevent the offence.
-          </li>
-        </ul>
+        Increase awareness of the danger of using mobile phones in the traffic.
       </li>
       <li>
-        Clarify what using mobile device while driving means
-        <ul>
-          <li>
-            Currently the law states: "It’s illegal to hold a phone or sat nav
-            while driving or riding a motorcycle. You must have hands-free
-            access"
-          </li>
-          <li>
-            Many drivers are not aware that the law also states: "The law still
-            applies to you if you’re: stopped at traffic lights, queuing in
-            traffic, supervising a learner driver"
-          </li>
-          <li>
-            Many drivers walk around the phasing by holding the phone on the
-            lap, seat, arm rest, or scrolling news/social feeds when phone is in
-            the cradle.
-          </li>
-          <li>
-            Many drivers are not prosecuted, when they hold the phone, but
-            screen is not lighten up or evidence doesn't capture their finger
-            movement.
-          </li>
-          <li>
-            We suggest that it's clear that phone has to be hidden of the driver
-            sight or in the cradle, can be interacted only via hand-free methods
-            or built in car controls and can't be used to broadcast feeds,
-            videos, documents, news, etc. except maps for navigation.
-          </li>
-        </ul>
+        Treat drivers using mobile phones while driving like drunk drivers.
       </li>
       <li>
-        Abolish using mobile device while cycling
-        <ul>
-          <li>
-            Currently it's not illegal to cycle while holding, using the phone,
-            texting or calling.
-          </li>
-          <li>
-            Usage of the phone on the bicycles should be regulated in the same
-            way as for the cars.
-          </li>
-        </ul>
+        Clarify what is meant by usage to prevent holding phones on laps, seats
+        and make prevention and prosecution easier.
       </li>
       <li>
-        Abolish crossing the street by pedestrians while using mobile device
-        <ul>
-          <li>Jaywalking is not illegal at the moment in the UK</li>
-          <li>
-            It happens on daily basis that pedestrians cross the street without
-            watching and got hit by cars or cyclists.
-          </li>
-          <li>
-            It happens that drivers or cyclist who had no chance to avoid
-            collision are fined or sued by pedestrians who were focused on their
-            phones while crossing the street.
-          </li>
-        </ul>
+        Increase awareness of danger and illegality of using the phone while
+        queuing and on the red lights.
+      </li>
+    </ul>
+    <h3>Where we are?</h3>
+    <ul>
+      <li>
+        Stage: drawing board, discussing the scope, ideas, problems,
+        researching.
+      </li>
+      <li>
+        Scale: currently a sole project of one person, open for anyone to join
+        and contribute.
       </li>
     </ul>
     <h3>What next?</h3>
     <ul>
-      <li>We work on petition to the Parliament</li>
-      <li>Want to help? Make a <a href="https://github.com/sielay/phonekills" target="_blank">pull request or an issue</a>!</li>
+      <li>Work on shape, scope, message.</li>
+      <li>Work on petition to the Parliament</li>
+      <li>
+        Want to help? Make a{" "}
+        <a href="https://github.com/sielay/phonekills" target="_blank">
+          pull request or an issue
+        </a>
+        !
+      </li>
       <li>
         Follow us on{" "}
         <a href="https://twitter.com/phonekills" target="_blank">
@@ -111,6 +65,46 @@ const IndexPage = () => (
         </a>
       </li>
     </ul>
+    <h3>Few words from the initiator</h3>
+    <p>
+      My name is Łukasz, I'm a cyclist and live in London. Every day I commute
+      to work and see loads of people focused on their phones when they drive,
+      cross the street or even cycle or use an electric scooter. Most of the
+      time they are either not aware of the danger or in denial. Many don't know
+      it's illegal to use the phone when waiting on the lights or moving slowly
+      in the traffic. Many times I have to observe (or am a likely victim) of
+      narrowly avoided incidents caused by such behaviour from all kinds of road
+      users. After working for a long time with Metropolitan Police I noticed
+      that often their hands are bound by unclear legislation, especially when
+      it comes to the definition of the phone usage. That makes very difficult
+      to prevent or prosecute it.
+    </p>
+    <p>
+      I decided to kick off that action for two reasons. First I see that I'm
+      not the only one who struggles with that situation and simply want to
+      arrive alive at work and at home. Secondly, I have experience of
+      iniciating countrywide action in the past (in Poland, against laws
+      prohibiting i.e. having an ale on the grill in the park) which by simple
+      hard work, determination and support of amazing community grew to massive
+      scale, changed some local laws and became a catchphrase in the Polish
+      language.
+    </p>
+    <p>
+      As much I personally prefer to treat everyone equally in the eyes of the
+      law, I must agree that drivers cause the biggest threat to the vulnerable
+      road users. Therefore I limit the action to focus on them. In the same
+      time I'd discuss and advocate education other road users, but won't keep
+      it as the priority.
+    </p>
+    <p>
+      I initialised action on my own. It has no connection to any organisation,
+      company, movement, political views, etc.
+    </p>
+    <p>
+      Action is open for anyone to join. It presents my personal views, but I
+      want it to present community views and become shared. Feel free to
+      participate and shape it. We can do it.
+    </p>
   </Layout>
 )
 
