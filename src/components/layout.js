@@ -11,7 +11,7 @@ import { useStaticQuery, graphql } from "gatsby"
 
 import Header from "./header"
 import "./layout.css"
-import GDPR from "./gdpr";
+import GDPR from "./gdpr"
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
@@ -38,12 +38,12 @@ const Layout = ({ children }) => {
         <main>{children}</main>
         <footer>
           © {new Date().getFullYear()}, Phone Kills
-          <a href="https://twitter.com/phonekills" target="_blank"></a>,
-           Built with
+          <a href="https://twitter.com/phonekills" target="_blank"></a>, Built
+          with
           {` `}
           <a href="https://www.gatsbyjs.org">Gatsby</a>
         </footer>
-        <GDPR/>
+        <GDPR />
       </div>
     </>
   )
