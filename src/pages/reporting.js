@@ -59,6 +59,40 @@ const IndexPage = () => (
         .
       </li>
     </ul>
+    <h2>What to consider before publishing footage on the social media</h2>
+    <p>
+      An official response from PNLD to question about publishing video of
+      drivers committing offences (Sep 13th, 2019)
+    </p>
+    <pre style={{
+      wordBreak: 'break-word',
+      wordWrap: 'break-word',
+      whiteSpace: 'pre-line'
+    }}>
+      Classification: OFFICIAL{"\n\n"}
+      Lukasz{"\n\n"}
+      Thank you for your enquiry{"\n\n"}
+      We would advise against publishing an image/footage of a suspect on social
+      media, as this may compromise the investigation and leave you open to
+      civil action for defamation.{"\n\n"}
+      It is possible for the police to publish the image in controlled
+      circumstances that would achieve the same objectives. You would then be
+      protected from civil action and the police publication would be monitored
+      and subject to strict guidelines. This allows the police to make use of
+      social media in the same way as the individual but would ensure avoidance
+      of the commission of any offences under the Contempt of Court Act 1981 and
+      would also avoid any conflict with the Convention rights of the suspect,
+      such as a right to a fair trial should a suspect be charged with an
+      offence.{"\n\n"}
+      If you have footage of a traffic incident, we advise you pass this to your
+      local police force. You can contact your local police force either via
+      101, in person at your nearest police station or via their online
+      reporting form: https://www.askthe.police.uk/content/Q727.htm{"\n\n"}
+      We hope this information assists.{"\n\n"}
+      Regards,{"\n"}
+      PNLD{"\n"}
+      (EG)
+    </pre>
   </Layout>
 )
 

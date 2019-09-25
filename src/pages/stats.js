@@ -31,6 +31,9 @@ const IndexPage = () => (
     <h2>Enforcement</h2>
     <ul className="unstyled">
       <li>
+        <Twitter tweet="1176509295652999169"/>
+      </li>
+      <li>
         <Twitter tweet="1169856215012147200"/>
       </li>
     </ul>
