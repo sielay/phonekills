@@ -1,0 +1,35 @@
+<header class="fixed w-full z-10 top-0 shadow-2xl bg-green-500">
+    <div class= "w-full md:max-w-4xl mx-auto flex flex-wrap items-center justify-between mt-0 py-3">
+        <div class="pl-4">
+            <a href="/" class="text-base no-underline hover:no-underline font-bold text-lg lg:text-xl hover:text-green-300">
+                PhoneKills
+            </a>
+        </div>
+        <div class="block lg:hidden pr-4">
+            <button id="nav-toggle" class="flex items-center px-3 py-2 border rounded border-green-900 text-green-900 hover:text-green-300 hover:border-green-300 appearance-none focus:outline-none" onClick="document.body.classList.toggle('show-sidebar')">
+                <svg class="fill-current h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                    <title>Menu</title>
+                    <path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/>
+                </svg>
+            </button>
+        </div>
+        <div class="w-full text-xs font-sans pl-4 text-green-800">
+            This page contains <strong class="text-bold">no</strong> legal advice, and the author is <strong>not</strong> a lawyer.
+        </div>
+        <div class="sidebar w-full flex-grow lg:flex lg:items-center lg:w-auto lg:block mt-2 lg:mt-0 md:bg-transparent z-20 hidden lg:block" id="nav-content">
+            <ul class="lg:flex justify-end flex-1 items-center ml-2">
+                <li>
+                    <a href="/about" class="ml-2 hover:text-green-300">About</a>
+                    <a href="/blog" class="ml-2 hover:text-green-300">Blog</a>
+                    <a href="/reporting" class="ml-2 hover:text-green-300">Reporting</a>
+                    <a href="/feed.xml" class="ml-2 hover:text-green-300">RSS</a>
+                </li>
+                {%- for page in collections.topNav -%}
+                    <li>
+                        <a href="{{ page.url }}" class="ml-2">{{ page.data.title }}</a>
+                    </li>
+                {%- endfor -%}
+            </ul>
+        </div>
+    </div>
+</header>
