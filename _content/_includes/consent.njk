@@ -47,5 +47,23 @@
     (d.head || d.body).appendChild(s);
     })();
 
+    if (document.querySelector('[data-shouldyou]')) { // Chat
+      window.youshould = {
+        apiHost: 'api.shouldyou.co',
+        apiPort: 443
+      };
+      (function () {
+        var d = document,
+          s = d.createElement('script'),
+          c = d.createElement('link');
+        s.src = 'https://widget.shouldyou.co/static/js/main.js';
+        s.setAttribute('data-timestamp', + new Date());
+        (d.head || d.body).appendChild(s);
+        c.setAttribute('rel', 'stylesheet');
+        c.setAttribute('href', 'https://widget.shouldyou.co/static/css/main.css');
+        d.head.appendChild(c);
+      })();
+    }
+
   });
 </script>
