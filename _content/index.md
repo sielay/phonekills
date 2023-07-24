@@ -3,30 +3,54 @@ title: PhoneKills
 layout: layout
 ---
 <br/>
-<div class="container rounded-sm p-2 shadow-lg block bg-white">
-<h3 class="font-bold text-xl" >Book coming soon, get informed!</h3>
-<p class="my-2">
-Each year 136,002 people are injured or killed on British roads (figures for 2022). That is one every 4 minutes. 1,695 are being killed. That's 4.6 each day (<a class="text-blue-500" href="https://www.gov.uk/government/statistics/reported-road-casualties-great-britain-provisional-results-2022/reported-road-casualties-great-britain-provisional-results-2022">source</a>).
-</p>
-<p class="my-2">
-10% of fatal accidents are caused by distracted driving (<a class="text-blue-500" href="https://toptests.co.uk/driving-statistics/">source</a>) and you're four times more likely to cause a crash when you're using the mobile phone (<a href="https://www.think.gov.uk/themes/mobile-phones/" class="text-blue-500">source</a>).
-</p>
-<p class="my-2">
-You lose around 27 seconds of cognitive abilities when using a mobile device, even in the cradle (<a class="text-blue-500" href="https://unews.utah.edu/up-to-27-seconds-of-inattention-after-talking-to-your-car-or-smart-phone/#:~:text=It%20takes%20up%20to%2027%20seconds%20to%20regain,studies%20for%20the%20AAA%20Foundation%20for%20Traffic%20Safety.">source</a>) which makes it extremely dangerous in slow moving traffic where you may not notice pedestrians and cyclists.
-</p>
-<p class="my-2">
-Many drivers are not aware that use of the phone is forbidden, even when in the queue or at the lights. That leads to many getting at least 6 points and £200 fine, which for first 2 years of holding the licence results in disqualification. That is more and more common thanks to the third party reporting where hundreds of thousands motorists, horse riders, pedestrians and cyclists joined the local forced in fight for safer roads.
-</p>
-<p class="my-2">
-I spent over four years immersed in the world of third party reporting and analysing impact phone distracted motorists cause on our roads. I'm more terrified than ever. Each time I commute to and from the work, shop, school I need to stay extra vigilant to not be crashed by someone who combines some of the fatal four: speed, distraction or substances (no belt is the fourth one).
-</p>
-<p class="my-2">
-I grew to the moment that after reporting over a thousand drivers, learning all shades of grey about the topic I started to work on the book about third party reporting. This summer I embark on a 8 day long trip from Scotland back down to London, meeting with some heroes of the story I want to tell you, fundraising for RoadSafe, a charity that helps road crash victims and to raise awareness about phone use dangers. So far I interviewed: Jeremy Vine, Mark Hodson, Dave Sherry, Traffic Droid, Jim's Wheels, Ian Price, CycleGranny, David Brennan and got accounts from many others together with dozens of data from Police forces across the country.
-</p>
-<a href="https://www.justgiving.com/page/phonekills-roadpeace" class="bg-purple-600 text-white text-lg text-center px-4 py-2 block m-auto">Support my Fundraiser for RoadPeace</a>
+<div class="container roudned-sm p-2 shadow-lg block bg-slate-800 mb-2 text-white">
+  <div class="grid grid-cols-5 gap-4">
+    <div class="p-4 py-6 text-center"><a href="https://www.twitter.com/phonekills/" target="_blank"><img class="w-8 h-8 inline-block" src="/images/cib-twitter.svg"/></a></div>
+    <div class="p-4 py-6 text-center"><a href="https://www.youtube.com/c/phonekills/videos" target="_blank"><img class="w-8 h-8 inline-block" src="/images/cib-youtube.svg"/></a></div>
+    <div class="p-4 py-6 text-center"><a href="https://www.instagram.com/phonekillsuk/" target="_blank"><img class="w-8 h-8 inline-block" src="/images/cib-instagram.svg"/></a></div>
+    <div class="p-4 py-6 text-center"><a href="https://c.im/@phonekills" target="_blank"><img class="w-8 h-8 inline-block" src="/images/cib-mastodon.svg"/></a></div>
+    <div class="p-4 py-6 text-center"><a href="https://www.threads.net/@phonekillsuk" target="_blank"><img class="w-8 h-8 inline-block" src="/images/cib-facebook.svg"/></a></div>
+  </div>
 </div>
 
-<!-- Begin Brevo Form -->
+
+<div class="container flex flex-col-reverse md:flex-row gap-2">
+  <div class="flex-grow w-1/2">
+    <a class="twitter-timeline" href="https://twitter.com/phonekills?ref_src=twsrc%5Etfw">Tweets by phonekills</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
+  <div class="flex-grow w-1/2">
+    <div class="rounded-sm p-2 shadow-lg block bg-white mb-4">
+      <a href="https://www.justgiving.com/page/phonekills-roadpeace" class="bg-purple-600 text-white text-lg text-center px-4 py-2 block m-auto">
+        <img class="w-5 h-5 inline-block" src="/images/cib-justgiving.svg"/>
+        Support my Fundraiser for RoadPeace
+      </a>
+      <p class="mt-2 leading-6 text-justify">
+        This summer I embark on a 640+ mile trip from Scotland back down to London, meeting with some heroes of the story I want to tell you, fundraising for RoadSafe, a charity that helps road crash victims and to raise awareness about phone use dangers. This time I will visit Edinburgh, Glasgow, Carlisle, Lake District, Manchester, Peak District, Sheffield, Nottingham, Coventry, Birmingham, North Cotswolds, Oxford, Maidenhead and Windsor. The trip will be about 640 miles and will take 8 days.
+      </p>
+    </div>
+    <div class="rounded-sm p-2 shadow-lg block bg-white mb-4">
+      <h3 class="font-bold text-xl" >Book coming soon, get informed!</h3>
+      <p class="my-2">
+      Each year 136,002 people are injured or killed on British roads (figures for 2022). That is one every 4 minutes. 1,695 are being killed. That's 4.6 each day (<a class="text-blue-500" href="https://www.gov.uk/government/statistics/reported-road-casualties-great-britain-provisional-results-2022/reported-road-casualties-great-britain-provisional-results-2022">source</a>).
+      </p>
+      <p class="my-2">
+      10% of fatal accidents are caused by distracted driving (<a class="text-blue-500" href="https://toptests.co.uk/driving-statistics/">source</a>) and you're four times more likely to cause a crash when you're using the mobile phone (<a href="https://www.think.gov.uk/themes/mobile-phones/" class="text-blue-500">source</a>).
+      </p>
+      <p class="my-2">
+      You lose around 27 seconds of cognitive abilities when using a mobile device, even in the cradle (<a class="text-blue-500" href="https://unews.utah.edu/up-to-27-seconds-of-inattention-after-talking-to-your-car-or-smart-phone/#:~:text=It%20takes%20up%20to%2027%20seconds%20to%20regain,studies%20for%20the%20AAA%20Foundation%20for%20Traffic%20Safety.">source</a>) which makes it extremely dangerous in slow moving traffic where you may not notice pedestrians and cyclists.
+      </p>
+      <p class="my-2">
+      Many drivers are not aware that use of the phone is forbidden, even when in the queue or at the lights. That leads to many getting at least 6 points and £200 fine, which for first 2 years of holding the licence results in disqualification. That is more and more common thanks to the third party reporting where hundreds of thousands motorists, horse riders, pedestrians and cyclists joined the local forced in fight for safer roads.
+      </p>
+      <p class="my-2">
+      I spent over four years immersed in the world of third party reporting and analysing impact phone distracted motorists cause on our roads. I'm more terrified than ever. Each time I commute to and from the work, shop, school I need to stay extra vigilant to not be crashed by someone who combines some of the fatal four: speed, distraction or substances (no belt is the fourth one).
+      </p>
+      <p class="my-2">
+      I grew to the moment that after reporting over a thousand drivers, learning all shades of grey about the topic I started to work on the book about third party reporting.
+      </p>
+    </div>
+
+    <!-- Begin Brevo Form -->
 <!-- START - We recommend to place the below code in head tag of your website html  -->
 <style>
   @font-face {
@@ -233,3 +257,9 @@ I grew to the moment that after reporting over a thousand drivers, learning all 
 
 <!-- END - We recommend to place the above code in footer or bottom of your website html  -->
 <!-- End Brevo Form -->
+  </div>
+</div>
+
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@phonekills.com" data-unique-id="phonekills.com" data-embed-from="embed_page" data-embed-type="creator" style="max-width: 780px; min-width: 288px;" > <section> <a target="_blank" href="https://www.tiktok.com/@phonekills.com?refer=creator_embed">@phonekills.com</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+
