@@ -15,10 +15,10 @@ layout: layout
 
 
 <div class="container flex flex-col-reverse md:flex-row gap-2">
-  <div class="flex-grow w-1/2">
+  <div class="flex-grow md:w-1/2">
     <a class="twitter-timeline" href="https://twitter.com/phonekills?ref_src=twsrc%5Etfw">Tweets by phonekills</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
-  <div class="flex-grow w-1/2">
+  <div class="flex-grow md:w-1/2">
     <div class="rounded-sm p-2 shadow-lg block bg-white mb-4">
       <a href="https://www.justgiving.com/page/phonekills-roadpeace" class="bg-purple-600 text-white text-lg text-center px-4 py-2 block m-auto">
         <img class="w-5 h-5 inline-block" src="/images/cib-justgiving.svg"/>
